@@ -1,0 +1,64 @@
+{
+  "numeric_features": [
+    "age",
+    "N_COMORBIDITIES"
+  ],
+  "binary_features": [
+    "diabetes",
+    "COPD",
+    "asthma",
+    "immunosuppressed",
+    "hypertension",
+    "other_comorbidity",
+    "cardiovascular",
+    "obesity",
+    "chronic_renal_failure",
+    "tobacco_use",
+    "pregnant",
+    "treated_in_residence_state"
+  ],
+  "categorical_features": [
+    "sex",
+    "sector",
+    "origin",
+    "residence_state",
+    "medical_unit_state",
+    "nationality",
+    "contact_with_other_case"
+  ],
+  "comorbidity_cols": [
+    "diabetes",
+    "COPD",
+    "asthma",
+    "immunosuppressed",
+    "hypertension",
+    "other_comorbidity",
+    "cardiovascular",
+    "obesity",
+    "chronic_renal_failure",
+    "tobacco_use"
+  ],
+  "feature_cols": [
+    "age",
+    "N_COMORBIDITIES",
+    "diabetes",
+    "COPD",
+    "asthma",
+    "immunosuppressed",
+    "hypertension",
+    "other_comorbidity",
+    "cardiovascular",
+    "obesity",
+    "chronic_renal_failure",
+    "tobacco_use",
+    "pregnant",
+    "treated_in_residence_state",
+    "sex",
+    "sector",
+    "origin",
+    "residence_state",
+    "medical_unit_state",
+    "nationality",
+    "contact_with_other_case"
+  ]
+}
